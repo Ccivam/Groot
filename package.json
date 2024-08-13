@@ -1,0 +1,19 @@
+{
+  "name": "groot",
+  "version": "1.0.0",
+  "main": "Groot.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shivam",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "diff": "^5.2.0",
+    "express": "^4.19.2",
+    "nodemjs": "^0.1.15"
+  }
+}
